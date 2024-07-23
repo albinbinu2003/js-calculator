@@ -4,8 +4,12 @@
 @media (max-width: 1200px)
 {
     .resp1
-    {
-        transform: scale(0.6)
+    {   transform: scale(00.5);
+        #button{
+            transform: scale(.8);
+            
+        }
+
     }
 }
 

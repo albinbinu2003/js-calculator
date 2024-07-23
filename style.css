@@ -1,4 +1,17 @@
-h1
+
+
+
+@media (max-width: 1200pxi)
+{
+    .resp1
+    {
+        transform: scale(0.6);
+    }
+}
+
+
+
+h1git c
 {
     text-align: center;
 }
@@ -62,4 +75,9 @@ p{
 .button:hover
 {
     border: 6px solid white; 
+}
+
+.resp1
+{
+    scale: 0.7;
 }

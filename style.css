@@ -5,17 +5,16 @@
 {
     .resp1
     {   transform: scale(00.5);
-        #button{
-            transform: scale(.8);
-            
-        }
-
+       
+  
+    
+    
+        
     }
 }
 
 
-
-h1git c
+h1
 {
     text-align: center;
 }
@@ -26,9 +25,8 @@ h1git c
     height: 600px;
     background-color: rgb(73, 73, 73);
     margin: auto;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 10px;
-  
 
 }
 
@@ -47,12 +45,13 @@ p{
     background-color: #fff;
     height: 70px ;
     width: 460px;
-    margin: 5px;
+    margin-left: 2%;
+    align-items: center;
     font-size: 4rem;
-    margin-left:15px;
     text-align: right;
     background-color: rgb(195, 195, 195);
-    margin-bottom: 10px;
+    
+   
 }
 
 .button
@@ -74,14 +73,24 @@ p{
 
 .operator
 {
-    background-color: rgb(113, 113, 113);
+    background-color: rgb(220, 135, 0);
 }
 .button:hover
 {
     border: 6px solid white; 
 }
 
-.resp1
+.pwr
 {
-    scale: 0.7;
+    color: gray;
+    text-align: center;
+
+}
+
+.albin
+{
+    color: #ff0000;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
